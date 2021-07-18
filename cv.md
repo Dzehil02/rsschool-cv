@@ -37,3 +37,10 @@ out.innerHTML = tmp;
 ## My work experience
 *I have no practical experience in working on projects.*
 *Easy examples of work for yourself (JS, HTML, CSS)*
+
+## My education
+*I graduated from the Belarusian State University of Informatics and Radioelectronics with a degree in radioelectronics engineer. In the future, I plan to become a good web developer! To do this, I watch video tutorials (YouTube), webinars (GeekBrains) and go through training in the RS School.*
+
+## My english
+*I read the documentation in English (often with a translator). I try to read adapted books (for children) in English every evening.
+I plan to devote more time to learning English.*
