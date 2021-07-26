@@ -1,0 +1,91 @@
+body {
+   background-image: url(img/fon2.png);
+   margin: auto;
+   max-width: 900px;
+}
+
+.name {
+   text-align: center;
+   font-size: 30px;
+   margin-top: 0;
+}
+
+main {
+   display: flex;
+   padding-top: 10px;
+}
+
+hr {
+   width: 650px;
+}
+
+footer {
+   display: flex;
+   justify-content: space-around;
+   margin-top: 10px;
+   padding-top: 10px;
+   padding-bottom: 25px;
+}
+
+time {
+   font-weight: 800;
+   padding-left: 160px;
+   padding-right: 160px;
+}
+
+.avatar {
+   width: 250px;
+   border-radius: 10px;
+}
+
+.contacts {
+   padding-left: 10px;
+   width: auto;
+   line-height: 23px;
+   font-size: 20px;
+}
+
+.gmail {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   padding-left: 10px;
+}
+
+.number {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+
+.skill {
+   padding-left: 10px;
+   width: auto;
+   line-height: 23px;
+   font-size: 20px;
+}
+
+.icons {
+   display: flex;
+   justify-content: space-around;
+   padding-bottom: 10px;
+   padding-top: 30px;
+}
+
+.first_head {
+   margin-top: 0;
+}
+
+.about_me {
+   padding-left: 40px;
+}
+
+.about_me p {
+   font-style: italic;
+   font-size: 18px;
+   line-height: 22px;
+}
+
+.about_me h2 {
+   font-style: normal;
+}
